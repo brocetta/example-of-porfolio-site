@@ -1,0 +1,55 @@
+.logo{
+    font-family: LatoBlack;
+}
+
+header > div > button > img{
+    width: 2rem;
+}
+
+.star > span{
+    display: inline-block;
+    width: 5rem;
+    height: 5px;
+}
+
+.profile > h1 { 
+    font-family: LatoBlack;
+
+}
+
+.menu  a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+.portfolio > h2 {
+    font-family: LatoBlack;
+}
+.moreButton {
+    display: block;
+    width: fit-content;
+    border: 2px solid white;
+    text-decoration: none;
+    background-color: transparent;
+    margin: 0 auto;
+}
+
+.about > h2 {
+    font-family: LatoBlack;
+}
+
+.sendButton {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+    border-radius: 7px;
+}
+
+.contactMe input {
+    border: none;
+    border-bottom: 1px solid grey;
+
+}
